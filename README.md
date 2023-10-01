@@ -1,5 +1,7 @@
 # Recipe Organizer
 
+![Recipe Orgainser Website](images\Cover.png)
+
 Recipe Organizer is a simple command-line Python application that allows users to manage and search for their favorite recipes. With this application, you can easily add new recipes, view a list of all recipes, search for recipes by name, and view the details of a specific recipe.
 
 ## Features
