@@ -14,7 +14,7 @@ Recipe Organizer is a simple command-line Python application that allows users t
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/recipe-organizer.git
+   git clone https://github.com/devyanic11/Recipe-Organiser.git
     ```
 2. Navigate to the project directory:
     ```
